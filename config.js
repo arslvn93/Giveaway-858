@@ -26,18 +26,13 @@ const config = {
     "showCountdownInHero": true,
     "theme": "dark",
     "primaryColorOverride": "",
-    "secondaryColorOverride": "#FFEE58",
+    "secondaryColorOverride": "#ff5757",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Boutique Bliss Giveaway – The High Acre</strong> is in. We will draw the winner on March 7, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your email on March 7. Share this giveaway with a friend who needs rest."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -136,8 +131,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -170,6 +163,8 @@ const config = {
       "Share with someone who could really use a rest",
       "Watch your inbox and spam on March 7"
     ],
+    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw. Every entry has the same chance. No tricks. No bias."
@@ -190,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1770761839152_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -212,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1770761839152_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -234,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1770761839152_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -256,6 +251,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Boutique Bliss Giveaway – The High Acre</strong> is in. We will draw the winner on March 7, 2026 and email them. Good luck!",
+    "socialPromptText": "Watch your email on March 7. Share this giveaway with a friend who needs rest."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61555669097998",
