@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1770761866625_0",
+      "id": "q_auto_1771019035713_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770761866625_1",
+      "id": "q_auto_1771019035713_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1770761866625_2",
+      "id": "q_auto_1771019035713_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -266,7 +266,7 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61555669097998",
-      "instagram": "https://instagram.com/@the.real.janelle"
+      "instagram": "https://www.instagram.com/the.real.janelle/"
     },
     "agentContact": {
       "name": "Janelle LeBlanc",
