@@ -37,11 +37,11 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/mc2zw6kk2srmt0cw8e0a0vcgtg.jpg",
+        "src": "https://torontolife.mblycdn.com/tl/resized/2023/08/w1280/Front-Exterior-High-Acre_Anna-Haines_26-scaled.jpg",
         "alt": "Cozy suite at The High Acre with king bed and fireplace"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r8q1htfz8nrmt0cw8e08txtdbg.jpg",
+        "src": "https://images.squarespace-cdn.com/content/v1/6388f2ff737be158b6b8d4d7/ebf7624e-8069-4400-b929-e028c274007f/TWT03632-2.jpg",
         "alt": "Private in-suite infrared sauna at The High Acre"
       },
       {
@@ -88,9 +88,9 @@ const config = {
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill the Form",
-        "description": "Add your name and email. It takes under 30 seconds."
+        "icon": "fa-brands fa-instagram",
+        "title": "Follow us on Instagram",
+        "description": "Follow us @the.real.janelle"
       },
       {
         "icon": "fas fa-question-circle",
@@ -185,68 +185,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771019035713_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1771278207597_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1771019035713_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1771278207597_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1 - 2 years",
-          "text": "Yes, in the next 1 - 2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
         }
       ]
     },
     {
-      "id": "q_auto_1771019035713_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1771278207597_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
         }
       ]
     }
@@ -259,13 +259,13 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Boutique Bliss Giveaway – The High Acre</strong> is in. We will draw the winner on March 7, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your email on March 7. Share this giveaway with a friend who needs rest."
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Boutique Bliss Giveaway – The High Acre has been received. Complete your entry below to be eligible for the March 7 draw.\n\n",
+    "socialPromptText": "Follow @the.real.janelle on Instagram to complete your entry - only followers are eligible\n\n"
   },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/profile.php?id=61555669097998",
+      "facebook": "",
       "instagram": "https://www.instagram.com/the.real.janelle/"
     },
     "agentContact": {
@@ -275,7 +275,7 @@ const config = {
       "email": "janelle@jlbrealty.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Janelle LeBlanc at Real Broker Ontatio Ltd., Brokerage and is not affiliated with Boutique Bliss Giveaway, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-03-07 at 11:59 PM ET. Winner selected at random on 2026-03-07. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
-    "organizerLogoUrl": "https://app.salesgenius.co/api/organization-logos/2a633bc2-8aba-4723-bc51-367b113cf775?v=a3e7b23873c6f0168adb64049218be7a8b5a3536473b9a22223035c13b131b39",
+    "organizerLogoUrl": "https://hillisgroup.ca/wp-content/uploads/2024/09/logo2.jpeg",
     "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1754588223709-JLB All Logos_primary-black.png",
     "secondaryLogoAlt": "Janelle LeBlanc",
     "organizerName": "Janelle LeBlanc",
