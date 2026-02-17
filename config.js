@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://torontolife.mblycdn.com/tl/resized/2023/08/w1280/Front-Exterior-High-Acre_Anna-Haines_26-scaled.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-THUMBNAILS(3).png",
         "alt": "Cozy suite at The High Acre with king bed and fireplace"
       },
       {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771278279340_0",
+      "id": "q_auto_1771344924493_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771278279340_1",
+      "id": "q_auto_1771344924493_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771278279340_2",
+      "id": "q_auto_1771344924493_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -275,7 +275,7 @@ const config = {
       "email": "janelle@jlbrealty.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Janelle LeBlanc at Real Broker Ontatio Ltd., Brokerage and is not affiliated with Boutique Bliss Giveaway, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-03-07 at 11:59 PM ET. Winner selected at random on 2026-03-07. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
-    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1754588223709-JLB All Logos_primary-black.png",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-JLB+All+Logos_icon-lace.webp",
     "secondaryLogoUrl": "https://hillisgroup.ca/wp-content/uploads/2024/09/logo3.png",
     "secondaryLogoAlt": "Janelle LeBlanc",
     "organizerName": "Janelle LeBlanc",
