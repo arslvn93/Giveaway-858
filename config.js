@@ -1,7 +1,7 @@
 const config = {
   "meta": {
     "pageTitle": "Win a One-Night Spa Stay – $627 Value",
-    "navBrandLogoText": "Janelle LeBlanc",
+    "navBrandLogoText": "JLB & Co. Real Estate",
     "privacyPolicyLink": "https://docs.google.com/document/d/e/2PACX-1vTnMzQO8KXtr-q_n_cqj7L9irshOxh6xz9PqkgOp0VT6i1iuezzkSu_660-LZO8l4XuzQ7U1_vMJvN3/pub"
   },
   "giveaway": {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772032962531_0",
+      "id": "q_auto_1772033624634_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772032962531_1",
+      "id": "q_auto_1772033624634_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -233,7 +233,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772032962531_2",
+      "id": "q_auto_1772033624634_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -285,13 +285,13 @@ const config = {
     "footerDisclaimer": "This giveaway is sponsored by Janelle LeBlanc at Real Broker Ontatio Ltd., Brokerage and is not affiliated with Boutique Bliss Giveaway, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-03-07 at 11:59 PM ET. Winner selected at random on 2026-03-07. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-JLB+All+Logos_icon-lace.webp",
     "secondaryLogoUrl": "https://hillisgroup.ca/wp-content/uploads/2024/09/logo3.png",
-    "secondaryLogoAlt": "Janelle LeBlanc",
-    "organizerName": "Janelle LeBlanc",
+    "secondaryLogoAlt": "JLB & Co. Real Estate",
+    "organizerName": "JLB & Co. Real Estate",
     "brokerageName": "Real Broker Ontatio Ltd., Brokerage",
     "address": "130 King Street West Unit 1900, Toronto, ON, M5X 1E3",
     "email": "janelle@jlbrealty.ca",
     "phone": "905-320-4069",
-    "copyrightOwner": "Janelle LeBlanc"
+    "copyrightOwner": "JLB & Co. Real Estate"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-858",
