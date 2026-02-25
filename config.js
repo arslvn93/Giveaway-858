@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>a One-Night Spa Retreat</span> for Two at The High Acre!",
     "heroSubheadline": "Slow down. Breathe. This adults-only inn near Hamilton gives you a private in-suite spa, king bed, and cozy fire. Breakfast is included. $627 value. Entry ends March 7.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/05vbp3ejpxrmt0cw8dzrx6ybpw.jpg",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Thehighacreroom.webp",
     "promotionDates": "Enter Feb 18–Mar 7, 2026. Winner picked Mar 7, 2026.",
     "endDate": "2026-03-08T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -49,7 +49,7 @@ const config = {
         "alt": "Hammam-inspired steam shower with aromatherapy"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/nq3rc3s6gxrmy0cw8e1983h4k0.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-THUMBNAILS(3).png",
         "alt": "Outdoor pool and hot tub at The High Acre boutique inn"
       }
     ],
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771448531202_0",
+      "id": "q_auto_1772032962531_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448531202_1",
+      "id": "q_auto_1772032962531_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -233,7 +233,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448531202_2",
+      "id": "q_auto_1772032962531_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
