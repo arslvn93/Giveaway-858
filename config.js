@@ -6,16 +6,16 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>a One-Night Spa Retreat</span> for Two at The High Acre!",
-    "heroSubheadline": "Slow down. Breathe. This adults-only inn near Hamilton gives you a private in-suite spa, king bed, and cozy fire. Breakfast is included. $627 value. Entry ends March 7.",
+    "heroSubheadline": "Slow down. Breathe. This adults-only inn near Hamilton gives you a private in-suite spa, king bed, and cozy fire. Breakfast is included. $627 value. Entry ends March 18.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Thehighacreroom.webp",
-    "promotionDates": "Enter Feb 18–Mar 7, 2026. Winner picked Mar 7, 2026.",
-    "endDate": "2026-03-08T04:59:00.000Z",
+    "promotionDates": "Enter Feb 25–Mar 18, 2026. Winner picked Mar 20, 2026.",
+    "endDate": "2026-03-21T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Boutique Bliss Giveaway – The High Acre",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Boutique Bliss Giveaway – The High Acre</strong> is in! Winner will be announced March 7, 2026 and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email on March 7—check your inbox and spam."
+    "successModalMainMessage": "Your entry for the <strong>Boutique Bliss Giveaway – The High Acre</strong> is in! Winner will be announced March 20, 2026 and notified by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on March 20—check your inbox and spam."
   },
   "settings": {
     "confettiColors": [
@@ -82,7 +82,7 @@ const config = {
     "name": "Boutique Bliss Getaway at The High Acre",
     "value": "$627 Value",
     "description": "Picture a calm night away. Your suite is your own spa. Sit in your infrared sauna. Enjoy a warm steam shower with soft scents. Soak in the tub. Do hot and cold contrast. Wrap up in plush robes. Then rest in a king bed by the fire. In the morning, enjoy croissants, farm eggs, and coffee at your pace. This prize is a gift certificate toward a one-night stay ($555 + HST) at The High Acre in Dundas, ON. You will book on their site. Dates depend on availability. Peak dates may cost more. If you pick a peak date, you pay the extra.",
-    "limitedTimeOfferText": "Limited-time giveaway. Ends March 7!",
+    "limitedTimeOfferText": "Limited-time giveaway. Ends March 18!",
     "ctaButtonText": "I Want This Retreat!"
   },
   "howToEnter": {
@@ -100,7 +100,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You’re Entered",
-        "description": "We pick a random winner on March 7. Watch your email."
+        "description": "We pick a random winner on March 20. Watch your email."
       }
     ],
     "highlights": [
@@ -146,7 +146,7 @@ const config = {
       },
       {
         "q": "How will I know if I win?",
-        "a": "We will email you on March 7, 2026. Please check your spam folder too."
+        "a": "We will email you on March 20, 2026. Please check your spam folder too."
       },
       {
         "q": "Can I enter more than once?",
@@ -161,7 +161,7 @@ const config = {
       "Double-check your email for typos—make sure you can be reached",
       "One entry per person—please keep it fair",
       "Share with someone who could really use a rest",
-      "Watch your inbox and spam on March 7"
+      "Watch your inbox and spam on March 20"
     ],
     "finePrintText": "Please read the fine print before entering. Anyone can enter.",
     "showTipsSection": true,
@@ -170,7 +170,7 @@ const config = {
       "text": "We use a random draw. Every entry has the same chance. No tricks. No bias."
     },
     "importantNotice": {
-      "title": "Watch Your Email on March 7",
+      "title": "Watch Your Email on March 20",
       "text": "We will email the winner using the address in the form. Check your inbox and spam. Ontario residents, 18+ only. One entry per person."
     }
   },
@@ -180,12 +180,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-858.netlify.app%2Fadmin&text=Win%20a%20One-Night%20Spa%20Stay%20%E2%80%93%20%24627%20Value"
     },
     "subtitle": "Enter your details below for a chance to win a calm, one-night spa stay for two.",
-    "entryCountText": "Don’t miss out—entries close March 7!",
+    "entryCountText": "Don’t miss out—entries close March 18!",
     "socialSharePrompt": "Know a couple who needs a break? Share this with them."
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1772035000916_0",
+      "id": "q_auto_1772150436993_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772035000916_1",
+      "id": "q_auto_1772150436993_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -233,7 +233,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1772035000916_2",
+      "id": "q_auto_1772150436993_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -268,7 +268,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
-    "mainMessage": "Your information for the Boutique Bliss Giveaway – The High Acre has been received. Complete your entry below to be eligible for the March 7 draw.\n\n",
+    "mainMessage": "Your information for the Boutique Bliss Giveaway – The High Acre has been received. Complete your entry below to be eligible for the March 20 draw.\n\n",
     "socialPromptText": "Follow @the.real.janelle on Instagram to complete your entry - only followers are eligible\n\n"
   },
   "footerContact": {
